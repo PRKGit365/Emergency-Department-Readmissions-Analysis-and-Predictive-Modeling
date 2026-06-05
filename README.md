@@ -1,5 +1,3 @@
-# Emergency-Department-Readmissions-Analysis-and-Predictive-Modeling
-
 ## 📊 EMERGENCY DEPARTMENT READMISSIONS ANALYSIS AND PREDICTIVE MODELING (PYTHON & JUPYTER NOTEBOOKS)
 📖 **Description**  
 
