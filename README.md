@@ -54,5 +54,5 @@ Fields:
 
  🛠 **Tools & Technologies**
  
-* Python: Pandas, NumPy, Seaborn, Matplotlib
+* ![Python](https://img.shields.io/badge/Python-%2300C4CC.svg?style=for-the-badge&logo=Python&logoColor=white) Pandas, NumPy, Seaborn, Matplotlib
 * Jupyter Notebook
